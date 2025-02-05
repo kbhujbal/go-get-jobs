@@ -7,38 +7,38 @@ import (
 
 // WorkDay companies list
 var (
-	ASML                    = "ASML"
-	CrowdStrike             = "CRWD"
-	Intel                   = "INTL"
-	Nvidia                  = "NVDA"
-	Qualys                  = "QLYS"
-	SalesForce              = "SLSF"
-	Walmart                 = "WLMT"
-	Target                  = "TRGT"
-	Samsung                 = "SMSN"
-	Disney                  = "DSNY"
-	Sony                    = "SONY"
-	Twitter                 = "TWTR"
-	CapitalOne              = "CONE"
-	Boeing                  = "BOEG"
+	ASML        = "ASML"
+	CrowdStrike = "CRWD"
+	Intel       = "INTL"
+	Nvidia      = "NVDA"
+	Qualys      = "QLYS"
+	SalesForce  = "SLSF"
+	Walmart     = "WLMT"
+	Target      = "TRGT"
+	Samsung     = "SMSN"
+	Disney      = "DSNY"
+	Sony        = "SONY"
+	Twitter     = "TWTR"
+	CapitalOne  = "CONE"
+	// Boeing                  = "BOEG"
 	Bose                    = "BOSE"
 	Snapchat                = "SNPT"
 	CVS                     = "CVSS"
 	CCCIntelligentSolutions = "CCCI"
-	NorthropGrumman         = "NTGN"
-	Phinia                  = "PHNA"
-	Nissan                  = "NISN"
-	HP                      = "HPHP"
-	Barclays                = "BARC"
-	Blueorigin              = "BLON"
-	Medtronic               = "MDTC"
-	Tancent                 = "TNCT"
-	Mantech                 = "MTCH"
-	SPGlobal                = "SPGL"
-	Adobe                   = "ADBE"
-	Comcast                 = "CMCT"
-	Redhat                  = "REDH"
-	Symbotic                = "SYMC"
+	// NorthropGrumman         = "NTGN"
+	Phinia   = "PHNA"
+	Nissan   = "NISN"
+	HP       = "HPHP"
+	Barclays = "BARC"
+	// Blueorigin              = "BLON"
+	Medtronic = "MDTC"
+	Tancent   = "TNCT"
+	Mantech   = "MTCH"
+	SPGlobal  = "SPGL"
+	Adobe     = "ADBE"
+	Comcast   = "CMCT"
+	Redhat    = "REDH"
+	Symbotic  = "SYMC"
 ) //////////////// Edit here
 
 var WorkdayCompanies = make(map[string]bool)
@@ -58,17 +58,17 @@ func checkAndInitWorkdayCompaniesList() {
 		Sony,
 		Twitter,
 		CapitalOne,
-		Boeing,
+		// Boeing,
 		Bose,
 		Snapchat,
 		CVS,
 		CCCIntelligentSolutions,
-		NorthropGrumman,
+		// NorthropGrumman,
 		Phinia,
 		Nissan,
 		HP,
 		Barclays,
-		Blueorigin,
+		// Blueorigin,
 		Medtronic,
 		Tancent,
 		Mantech,
