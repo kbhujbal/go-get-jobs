@@ -1,17 +1,17 @@
 [
   {
-    "job_id": "7687766002",
-    "job_title": "Senior Product Manager - Developer Experience",
-    "hiring_manager": "Gilad Turbahn",
-    "posting_date": "2024-10-17T16:33:36.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
     "job_id": "7685932002",
     "job_title": "Senior Product Manager - Developer Experience",
     "hiring_manager": "Gilad Turbahn",
     "posting_date": "2024-10-17T16:33:36.000+0000",
     "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7687766002",
+    "job_title": "Senior Product Manager - Developer Experience",
+    "hiring_manager": "Gilad Turbahn",
+    "posting_date": "2024-10-17T16:33:36.000+0000",
+    "location": "Bellevue, Washington, USA"
   },
   {
     "job_id": "7684463002",
@@ -147,72 +147,9 @@
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7056290002",
-    "job_title": "Senior Software Engineer - Automation/Operations",
-    "hiring_manager": "Frantisek Rolinek",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5002755002",
-    "job_title": "Senior Software Engineer, Container Platform",
-    "hiring_manager": "Bart Fromm",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5961739002",
-    "job_title": "Senior Software Engineer - Database Security",
-    "hiring_manager": "Andy Siow",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "5270315002",
-    "job_title": "Principal Distributed Systems Engineer",
-    "hiring_manager": "Sushant Dewan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7325744002",
-    "job_title": "Senior Software Engineer- Data Infrastructure",
-    "hiring_manager": "Jessie Heng",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7653790002",
-    "job_title": "Principal Software Engineer - Snowpark Container Services",
-    "hiring_manager": "Vineet Pruthi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6981140002",
-    "job_title": "Senior Software Engineer",
-    "hiring_manager": "Jerry Tang",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7647137002",
-    "job_title": "Principal Software Engineer, Product Security",
-    "hiring_manager": "Hany Farag",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7093617002",
-    "job_title": "Senior Distributed Systems Engineer",
-    "hiring_manager": "Bogdan Munteanu",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7093770002",
-    "job_title": "Senior Software Engineer - Query Compiler",
-    "hiring_manager": "Osama Khan",
+    "job_id": "6945484002",
+    "job_title": "Senior Software Engineer - Analytical Products",
+    "hiring_manager": "Shrikant Shanbhag",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
@@ -224,30 +161,9 @@
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7457230002",
-    "job_title": "Senior Software Engineer - Cost Optimization",
-    "hiring_manager": "Anoop Gupta",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7292902002",
-    "job_title": "Senior Software Engineer - Developer Productivity",
-    "hiring_manager": "Jeff Wagner",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7615322002",
-    "job_title": "Principal Data Scientist",
-    "hiring_manager": "Ameya Sanzgiri",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
-  },
-  {
-    "job_id": "7615324002",
-    "job_title": "Principal Data Scientist",
-    "hiring_manager": "Ameya Sanzgiri",
+    "job_id": "5002755002",
+    "job_title": "Senior Software Engineer, Container Platform",
+    "hiring_manager": "Bart Fromm",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
@@ -259,107 +175,121 @@
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7050903002",
-    "job_title": "Senior Software Engineer- Cloud Engineering",
-    "hiring_manager": "Srikanth Viswanathan",
+    "job_id": "7086777002",
+    "job_title": "Senior Technical Program Manager - Data Platform",
+    "hiring_manager": "Rajesh Padmanabhan",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6489205002",
-    "job_title": "Senior Software Engineer - Data Lake",
-    "hiring_manager": "Nemanja Matkovic",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5741866002",
-    "job_title": "Principal Frontend Engineer",
-    "hiring_manager": "Kevin Liu",
+    "job_id": "7609826002",
+    "job_title": "Senior Product Manager - Developer Experience",
+    "hiring_manager": "Carl Perry",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7597112002",
-    "job_title": "Senior Technical Program Manager - Engineering Systems",
+    "job_id": "7317208002",
+    "job_title": "Senior Technical Program Manager",
     "hiring_manager": "Galed Friedmann",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "4414018002",
-    "job_title": "Senior Software Engineer- Sharing and Marketplace Foundation",
-    "hiring_manager": "Neeraj Khanna",
+    "job_id": "7626133002",
+    "job_title": "Sr. Global Security Compliance Analyst",
+    "hiring_manager": "Priya Pataskar",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7472852002",
-    "job_title": "Senior/Principal Software Engineer - Traffic",
-    "hiring_manager": "Srikanth Viswanathan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6698062002",
-    "job_title": "Senior Software Engineer - Snowpark Container Services (Programmability)",
-    "hiring_manager": "Vineet Pruthi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7534997002",
-    "job_title": "Principal Software Engineer- Apps Foundation",
-    "hiring_manager": "OJ Rajpal",
+    "job_id": "7622302002",
+    "job_title": "Senior Software Engineer, Aplication Security",
+    "hiring_manager": "Hany Farag",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6977605002",
-    "job_title": "Principal Software Engineer - App and Collaboration Platform",
+    "job_id": "5959389002",
+    "job_title": "Principal Software Engineer - Database Security",
+    "hiring_manager": "Emre Kanlikilicer",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7337308002",
+    "job_title": "Senior Engineering Manager- Billing \u0026 Payments",
     "hiring_manager": "Zheng Mi",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7594727002",
-    "job_title": "Senior Security Engineer",
-    "hiring_manager": "Anand Sridharan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
-  },
-  {
-    "job_id": "6051414002",
-    "job_title": "Senior Software Engineer - Observability",
-    "hiring_manager": "Jiuling Wang",
+    "job_id": "7280887002",
+    "job_title": "Principal Software Engineer - Snowpark Container Services",
+    "hiring_manager": "Vineet Pruthi",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "6675027002",
-    "job_title": "Senior Software Engineer- Cloud Engineering",
-    "hiring_manager": "Srikanth Viswanathan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7599065002",
-    "job_title": "Senior Software Engineer - App Foundation (Infra)",
-    "hiring_manager": "Puneet Shenoy",
+    "job_id": "5494076002",
+    "job_title": "Senior Frontend Software Engineer",
+    "hiring_manager": "Beau Bender",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6751125002",
-    "job_title": "Senior Software Engineer, Query Optimizer",
-    "hiring_manager": "Di Wu (SQL)",
+    "job_id": "7623189002",
+    "job_title": "Software Engineer, Cloud Security",
+    "hiring_manager": "Sharath Sarangpur",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7487471002",
+    "job_title": "Senior Software Engineer - Control Plane",
+    "hiring_manager": "Marcus Martins",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7598349002",
-    "job_title": "Senior Technical Program Manager - Engineering Systems",
-    "hiring_manager": "Galed Friedmann",
+    "job_id": "7647156002",
+    "job_title": "Principal Software Engineer, Product Security",
+    "hiring_manager": "Hany Farag",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7319978002",
+    "job_title": "Senior Information Security Governance, Risk and Compliance Analyst - USA",
+    "hiring_manager": "Abuthahir Habeeb Rahman",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "7033682002",
+    "job_title": "Principal Software Engineer - Database Platform",
+    "hiring_manager": "Stanley Feng",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7278312002",
+    "job_title": "Senior Software Engineer - VM Performance and Health",
+    "hiring_manager": "Victor Marmol",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6731198002",
+    "job_title": "Senior Software Engineer - FoundationDB",
+    "hiring_manager": "Bogdan Munteanu",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "5959365002",
+    "job_title": "Principal Software Engineer - Database Security",
+    "hiring_manager": "Emre Kanlikilicer",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
@@ -371,22 +301,344 @@
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7284047002",
-    "job_title": "Senior Technical Program Manager - Database Engineering",
-    "hiring_manager": "Galed Friedmann",
+    "job_id": "6770218002",
+    "job_title": "Senior Software Engineer - Streaming Platform",
+    "hiring_manager": "Phil Pruett",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7473936002",
-    "job_title": "Senior Software Engineer Cloud Services",
-    "hiring_manager": "Vinay Marpina",
+    "job_id": "5557302002",
+    "job_title": "Senior Software Engineer- Growth Platform",
+    "hiring_manager": "Claire Li",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6815735002",
-    "job_title": "Senior Software Engineer - Clean Room",
+    "job_id": "6956654002",
+    "job_title": "Senior Software Engineer - Snowpark",
+    "hiring_manager": "Pankaj Lakhina",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7653790002",
+    "job_title": "Principal Software Engineer - Snowpark Container Services",
+    "hiring_manager": "Vineet Pruthi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7636574002",
+    "job_title": "Senior Technical Program Manager - Product Experience",
+    "hiring_manager": "Martin Koppel",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7498648002",
+    "job_title": "Senior Software Engineer - Platform Security",
+    "hiring_manager": "Andy Siow",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7649575002",
+    "job_title": "Senior Software Engineer, Service Identity and Secret Management",
+    "hiring_manager": "Karsten Huttelmaier",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7449804002",
+    "job_title": "Principal ML Scientist",
+    "hiring_manager": "Ameya Sanzgiri",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "7457353002",
+    "job_title": "Senior Software Engineer - Data Clean Room Applications",
+    "hiring_manager": "Andrew Gaiovyi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7093770002",
+    "job_title": "Senior Software Engineer - Query Compiler",
+    "hiring_manager": "Osama Khan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7442655002",
+    "job_title": "Principal Business Systems Analyst - Revenue and Billing Systems",
+    "hiring_manager": "Sathiya Subramanian",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "7292902002",
+    "job_title": "Senior Software Engineer - Developer Productivity",
+    "hiring_manager": "Jeff Wagner",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7056309002",
+    "job_title": "Senior Software Engineer - Automation/Operations",
+    "hiring_manager": "Frantisek Rolinek",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6750876002",
+    "job_title": "Senior Software Engineer, Query Optimizer",
+    "hiring_manager": "Di Wu (SQL)",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7442812002",
+    "job_title": "Senior Technical Program Manager- Compliance \u0026 Security",
+    "hiring_manager": "Bhawna Vigamal",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7319982002",
+    "job_title": "Senior Information Security Governance, Risk and Compliance Analyst - USA",
+    "hiring_manager": "Abuthahir Habeeb Rahman",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7598048002",
+    "job_title": "Engineering Manager - Query Lifecycle Platform",
+    "hiring_manager": "Eddie Hao",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "5961739002",
+    "job_title": "Senior Software Engineer - Database Security",
+    "hiring_manager": "Andy Siow",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6981140002",
+    "job_title": "Senior Software Engineer",
+    "hiring_manager": "Jerry Tang",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7612107002",
+    "job_title": "Software Engineer, Cloud Security",
+    "hiring_manager": "Sharath Sarangpur",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6487054002",
+    "job_title": "Senior Software Engineer - Data Lake",
+    "hiring_manager": "Nemanja Matkovic",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7056290002",
+    "job_title": "Senior Software Engineer - Automation/Operations",
+    "hiring_manager": "Frantisek Rolinek",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6489205002",
+    "job_title": "Senior Software Engineer - Data Lake",
+    "hiring_manager": "Nemanja Matkovic",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6051414002",
+    "job_title": "Senior Software Engineer - Observability",
+    "hiring_manager": "Jiuling Wang",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6917519002",
+    "job_title": "Principal Software Engineer- Clean Room",
+    "hiring_manager": "Chandrasekharan Iyer",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7534353002",
+    "job_title": "Principal Software Engineer - Observability",
+    "hiring_manager": "Jiuling Wang",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "5270315002",
+    "job_title": "Principal Distributed Systems Engineer",
+    "hiring_manager": "Sushant Dewan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7457230002",
+    "job_title": "Senior Software Engineer - Cost Optimization",
+    "hiring_manager": "Anoop Gupta",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7613380002",
+    "job_title": "Senior Program Manager, GTM \u0026 CLM, IT PMO",
+    "hiring_manager": "Ravi Kovelamudi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "4833969002",
+    "job_title": "Software Engineer - Database Engineering",
+    "hiring_manager": "Osama Khan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7606902002",
+    "job_title": "Senior Technical Writer",
+    "hiring_manager": "Mohan Vanmane",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6698062002",
+    "job_title": "Senior Software Engineer - Snowpark Container Services (Programmability)",
+    "hiring_manager": "Vineet Pruthi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "5165251002",
+    "job_title": "Principal Software Engineer - Sharing and Marketplace Foundation",
+    "hiring_manager": "Durga Arikatla",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7263561002",
+    "job_title": "Senior Software Engineer, Query Execution",
+    "hiring_manager": "Sandeep Seethaapathy",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7613379002",
+    "job_title": "Senior Data Scientist",
+    "hiring_manager": "Sandeep Chandana",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7478188002",
+    "job_title": "Senior Software Engineer, Service Identity and Secret Management",
+    "hiring_manager": "Hany Farag",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "5720682002",
+    "job_title": "Senior Software Engineer - Billing \u0026 Payment Platform",
+    "hiring_manager": "Claire Li",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7093617002",
+    "job_title": "Senior Distributed Systems Engineer",
+    "hiring_manager": "Bogdan Munteanu",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6977605002",
+    "job_title": "Principal Software Engineer - App and Collaboration Platform",
+    "hiring_manager": "Zheng Mi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6675027002",
+    "job_title": "Senior Software Engineer- Cloud Engineering",
+    "hiring_manager": "Srikanth Viswanathan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6917511002",
+    "job_title": "Tech Lead Senior Engineer - Service Infrastructure",
+    "hiring_manager": "Eddie Hao",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6848991002",
+    "job_title": "Senior Software Engineer- Marketplace Monetization",
+    "hiring_manager": "Kelvin Chan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7570013002",
+    "job_title": "Senior Technical Writer",
+    "hiring_manager": "Mohan Vanmane",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7523472002",
+    "job_title": "Senior/Principal Software Engineer - Traffic",
+    "hiring_manager": "Srikanth Viswanathan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7567542002",
+    "job_title": "Engineering Manager- Streamlit Platform",
+    "hiring_manager": "Jon Roes",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6918466002",
+    "job_title": "Senior Software Engineer- Data Privacy",
+    "hiring_manager": "Ian Connolly",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6670008002",
+    "job_title": "Principal Engineer, Developer Platform APIs",
+    "hiring_manager": "Jerry Tang",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6977638002",
+    "job_title": "Senior Software Engineer - App and Collaboration Platform",
+    "hiring_manager": "Zheng Mi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6917516002",
+    "job_title": "Principal Software Engineer- Clean Room",
     "hiring_manager": "Chandrasekharan Iyer",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
@@ -399,137 +651,39 @@
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "5766254002",
-    "job_title": "Principal Engineer - Database Internals",
-    "hiring_manager": "Entong Shen",
+    "job_id": "7498516002",
+    "job_title": "Principal Software Engineer - Platform Security",
+    "hiring_manager": "Andy Siow",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7494696002",
-    "job_title": "Senior Software Engineer, Regulated \u0026 Sovereign Cloud",
-    "hiring_manager": "Kaustubh Patil",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7615918002",
-    "job_title": "Senior ML Scientist",
-    "hiring_manager": "Sandeep Chandana",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
-  },
-  {
-    "job_id": "7442655002",
-    "job_title": "Principal Business Systems Analyst - Revenue and Billing Systems",
-    "hiring_manager": "Sathiya Subramanian",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
-  },
-  {
-    "job_id": "6051356002",
-    "job_title": "Senior Software Engineer - Observability",
-    "hiring_manager": "Jiuling Wang",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7307616002",
-    "job_title": "Principal Engineer, Regulated \u0026 Sovereign Cloud",
-    "hiring_manager": "Artin Avanes",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7534353002",
-    "job_title": "Principal Software Engineer - Observability",
-    "hiring_manager": "Jiuling Wang",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7594726002",
-    "job_title": "Senior Security Engineer",
-    "hiring_manager": "Anand Sridharan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7056309002",
-    "job_title": "Senior Software Engineer - Automation/Operations",
-    "hiring_manager": "Frantisek Rolinek",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6770218002",
-    "job_title": "Senior Software Engineer - Streaming Platform",
-    "hiring_manager": "Phil Pruett",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6750876002",
-    "job_title": "Senior Software Engineer, Query Optimizer",
-    "hiring_manager": "Di Wu (SQL)",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7549982002",
-    "job_title": "Principal Software Engineer- Growth",
-    "hiring_manager": "Zheng Mi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7609826002",
+    "job_id": "7609804002",
     "job_title": "Senior Product Manager - Developer Experience",
     "hiring_manager": "Carl Perry",
     "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "5843680002",
-    "job_title": "Principal Software Engineer - Billing \u0026 Payment Platform",
-    "hiring_manager": "Kelvin Chan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6670008002",
-    "job_title": "Principal Engineer, Developer Platform APIs",
-    "hiring_manager": "Jerry Tang",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6917511002",
-    "job_title": "Tech Lead Senior Engineer - Service Infrastructure",
-    "hiring_manager": "Eddie Hao",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7487465002",
-    "job_title": "Senior Software Engineer - Control Plane",
-    "hiring_manager": "Marcus Martins",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5767922002",
-    "job_title": "Principal Engineer - Database Internals",
-    "hiring_manager": "Entong Shen",
+    "job_id": "7597112002",
+    "job_title": "Senior Technical Program Manager - Engineering Systems",
+    "hiring_manager": "Galed Friedmann",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7649575002",
-    "job_title": "Senior Software Engineer, Service Identity and Secret Management",
-    "hiring_manager": "Karsten Huttelmaier",
+    "job_id": "7594727002",
+    "job_title": "Senior Security Engineer",
+    "hiring_manager": "Anand Sridharan",
     "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "7629212002",
+    "job_title": "Principal Product Manager - Head of Accessibility",
+    "hiring_manager": "Amanda Kelly",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
   },
   {
     "job_id": "7574297002",
@@ -539,438 +693,11 @@
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6836902002",
-    "job_title": "Principal Software Engineer- Global Platform",
-    "hiring_manager": "Zheng Mi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7478149002",
-    "job_title": "Senior Software Engineer - Billing \u0026 Payment Platform (Evergreen)",
-    "hiring_manager": "Claire Li",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7280887002",
-    "job_title": "Principal Software Engineer - Snowpark Container Services",
-    "hiring_manager": "Vineet Pruthi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7284024002",
-    "job_title": "Senior Technical Program Manager - Database Engineering",
-    "hiring_manager": "Galed Friedmann",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6856026002",
-    "job_title": "Senior Software Engineer -Snowpark Container Service",
-    "hiring_manager": "Vineet Pruthi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7479904002",
-    "job_title": "Senior Software Engineering Manager - Snowpark",
-    "hiring_manager": "Parin Shah",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7317208002",
-    "job_title": "Senior Technical Program Manager",
-    "hiring_manager": "Galed Friedmann",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7594728002",
-    "job_title": "Senior Security Engineer",
-    "hiring_manager": "Anand Sridharan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "McLean, Virginia, USA"
-  },
-  {
-    "job_id": "6967923002",
-    "job_title": "Senior Software Engineer, Query Optimizer",
-    "hiring_manager": "Di Wu (SQL)",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7085545002",
-    "job_title": "Senior Technical Program Manager - Data Platform",
-    "hiring_manager": "Rajesh Padmanabhan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7636574002",
-    "job_title": "Senior Technical Program Manager - Product Experience",
-    "hiring_manager": "Martin Koppel",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7636560002",
-    "job_title": "Senior Technical Program Manager - Product Experience",
-    "hiring_manager": "Martin Koppel",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7026598002",
-    "job_title": "Senior Software Engineer - FDB Performance",
-    "hiring_manager": "Ramkumar Vadivelu",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7449804002",
-    "job_title": "Principal ML Scientist",
-    "hiring_manager": "Ameya Sanzgiri",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
-  },
-  {
-    "job_id": "5494102002",
-    "job_title": "Principal Frontend Engineer",
-    "hiring_manager": "Kevin Liu",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7586438002",
-    "job_title": "Senior Software Engineer - Global Services Platform",
-    "hiring_manager": "Anoop Gupta",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "5530917002",
-    "job_title": "Senior Software Engineer- Database Internals",
-    "hiring_manager": "Entong Shen",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "4900265002",
-    "job_title": "Senior Software Engineer - App Foundation",
-    "hiring_manager": "OJ Rajpal",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7424255002",
-    "job_title": "Engineering Manager, Unistore",
-    "hiring_manager": "Entong Shen",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7598048002",
-    "job_title": "Engineering Manager - Query Lifecycle Platform",
-    "hiring_manager": "Eddie Hao",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7613452002",
-    "job_title": "Senior Software Engineer - Cloud Provisioning Service",
-    "hiring_manager": "Anoop Gupta",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7615915002",
-    "job_title": "Senior Data Scientist",
-    "hiring_manager": "Sandeep Chandana",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
-  },
-  {
-    "job_id": "7423983002",
-    "job_title": "Software Engineer",
-    "hiring_manager": "Dhiraj Gupta",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "4907500002",
-    "job_title": "Senior Software Engineer - Database Security",
-    "hiring_manager": "Andy Siow",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7623189002",
-    "job_title": "Software Engineer, Cloud Security",
-    "hiring_manager": "Sharath Sarangpur",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7612107002",
-    "job_title": "Software Engineer, Cloud Security",
-    "hiring_manager": "Sharath Sarangpur",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7498648002",
-    "job_title": "Senior Software Engineer - Platform Security",
-    "hiring_manager": "Andy Siow",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6674199002",
-    "job_title": "Principal Software Engineer - Sharing and Marketplace Foundation",
-    "hiring_manager": "Durga Arikatla",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7219433002",
-    "job_title": "Senior Technical Program Manager",
-    "hiring_manager": "Galed Friedmann",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7595362002",
-    "job_title": "Senior Software Engineer, Application Security",
-    "hiring_manager": "Hany Farag",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7598914002",
-    "job_title": "Senior Software Engineer - Polaris \u0026 Data Lake Catalog",
-    "hiring_manager": "Gjorgji Georgievski",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5165251002",
-    "job_title": "Principal Software Engineer - Sharing and Marketplace Foundation",
-    "hiring_manager": "Durga Arikatla",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7588041002",
-    "job_title": "Software Engineer - Snowpark",
-    "hiring_manager": "Zihao Ye",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7481695002",
-    "job_title": "Principal Software Engineer - Data Ingestion Systems",
-    "hiring_manager": "Phil Pruett",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7598884002",
-    "job_title": "Senior Software Engineer - Polaris \u0026 Data Lake Catalog",
-    "hiring_manager": "Gjorgji Georgievski",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6917519002",
-    "job_title": "Principal Software Engineer- Clean Room",
-    "hiring_manager": "Chandrasekharan Iyer",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7023325002",
-    "job_title": "Senior Software Engineer - FDB Performance",
-    "hiring_manager": "Ramkumar Vadivelu",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5459298002",
-    "job_title": "Senior Software Engineer - Data Platform",
-    "hiring_manager": "Phil Pruett",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6875673002",
-    "job_title": "Senior Software Engineer - Data Platform",
-    "hiring_manager": "Phil Pruett",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7529339002",
-    "job_title": "Senior Security Engineer",
-    "hiring_manager": "Anand Sridharan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7319978002",
-    "job_title": "Senior Information Security Governance, Risk and Compliance Analyst - USA",
-    "hiring_manager": "Abuthahir Habeeb Rahman",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
-  },
-  {
-    "job_id": "5959389002",
-    "job_title": "Principal Software Engineer - Database Security",
-    "hiring_manager": "Emre Kanlikilicer",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7572166002",
-    "job_title": "Senior Software Engineer, Cloud Security",
-    "hiring_manager": "Hany Farag",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6848991002",
-    "job_title": "Senior Software Engineer- Marketplace Monetization",
-    "hiring_manager": "Kelvin Chan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6966927002",
-    "job_title": "Senior Software Engineer - Database Platform",
-    "hiring_manager": "Stanley Feng",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7523472002",
-    "job_title": "Senior/Principal Software Engineer - Traffic",
-    "hiring_manager": "Srikanth Viswanathan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7087183002",
-    "job_title": "Senior Software Engineer - Identity \u0026 Access Management",
-    "hiring_manager": "OJ Rajpal",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7280273002",
-    "job_title": "Senior Software Engineer - Query Lifecycle Platform",
-    "hiring_manager": "Eddie Hao",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7033682002",
-    "job_title": "Principal Software Engineer - Database Platform",
-    "hiring_manager": "Stanley Feng",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "4833995002",
-    "job_title": "Software Engineer - Database Engineering",
-    "hiring_manager": "Osama Khan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7278312002",
-    "job_title": "Senior Software Engineer - VM Performance and Health",
-    "hiring_manager": "Victor Marmol",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7302194002",
-    "job_title": "Senior Software Engineer  - Database Security",
-    "hiring_manager": "Sal Martinez",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7570013002",
-    "job_title": "Senior Technical Writer",
-    "hiring_manager": "Mohan Vanmane",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6977638002",
-    "job_title": "Senior Software Engineer - App and Collaboration Platform",
-    "hiring_manager": "Zheng Mi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6731198002",
-    "job_title": "Senior Software Engineer - FoundationDB",
-    "hiring_manager": "Bogdan Munteanu",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7584683002",
-    "job_title": "Senior Product Manager - Streamlit Open Source",
-    "hiring_manager": "Thiago Teixeira",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
     "job_id": "6966867002",
     "job_title": "Senior Software Engineer",
     "hiring_manager": "Beau Bender",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7442812002",
-    "job_title": "Senior Technical Program Manager- Compliance \u0026 Security",
-    "hiring_manager": "Bhawna Vigamal",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5959365002",
-    "job_title": "Principal Software Engineer - Database Security",
-    "hiring_manager": "Emre Kanlikilicer",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7093836002",
-    "job_title": "Senior Software Engineer - Query Compiler",
-    "hiring_manager": "Osama Khan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7319982002",
-    "job_title": "Senior Information Security Governance, Risk and Compliance Analyst - USA",
-    "hiring_manager": "Abuthahir Habeeb Rahman",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5557302002",
-    "job_title": "Senior Software Engineer- Growth Platform",
-    "hiring_manager": "Claire Li",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
   },
   {
     "job_id": "7443336002",
@@ -980,44 +707,16 @@
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7626133002",
-    "job_title": "Sr. Global Security Compliance Analyst",
-    "hiring_manager": "Priya Pataskar",
+    "job_id": "4414018002",
+    "job_title": "Senior Software Engineer- Sharing and Marketplace Foundation",
+    "hiring_manager": "Neeraj Khanna",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7567542002",
-    "job_title": "Engineering Manager- Streamlit Platform",
-    "hiring_manager": "Jon Roes",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6999666002",
-    "job_title": "Senior Software Engineer - LLM",
-    "hiring_manager": "Vivek Raghunathan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5494076002",
-    "job_title": "Senior Frontend Software Engineer",
-    "hiring_manager": "Beau Bender",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7263561002",
-    "job_title": "Senior Software Engineer, Query Execution",
-    "hiring_manager": "Sandeep Seethaapathy",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7615920002",
-    "job_title": "Senior ML Scientist",
-    "hiring_manager": "Sandeep Chandana",
+    "job_id": "7572166002",
+    "job_title": "Senior Software Engineer, Cloud Security",
+    "hiring_manager": "Hany Farag",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
@@ -1029,93 +728,23 @@
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7613380002",
-    "job_title": "Senior Program Manager, GTM \u0026 CLM, IT PMO",
-    "hiring_manager": "Ravi Kovelamudi",
+    "job_id": "7593425002",
+    "job_title": "Senior Frontend Engineer - Marketplace",
+    "hiring_manager": "Neeraj Khanna",
     "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Dublin, California, USA"
+    "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6487054002",
-    "job_title": "Senior Software Engineer - Data Lake",
-    "hiring_manager": "Nemanja Matkovic",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7613379002",
-    "job_title": "Senior Data Scientist",
+    "job_id": "7615920002",
+    "job_title": "Senior ML Scientist",
     "hiring_manager": "Sandeep Chandana",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7457353002",
-    "job_title": "Senior Software Engineer - Data Clean Room Applications",
-    "hiring_manager": "Andrew Gaiovyi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7535034002",
-    "job_title": "Principal Software Engineer - Observability",
-    "hiring_manager": "Jiuling Wang",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7302150002",
-    "job_title": "Senior Software Engineer - Database Security",
-    "hiring_manager": "Sal Martinez",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7478188002",
-    "job_title": "Senior Software Engineer, Service Identity and Secret Management",
-    "hiring_manager": "Hany Farag",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7336782002",
-    "job_title": "Senior Design Manager",
-    "hiring_manager": "Zack Gottlieb",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5741865002",
-    "job_title": "Senior Frontend Software Engineer",
-    "hiring_manager": "Beau Bender",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7657480002",
-    "job_title": "Engineering Manager – Developer Experience",
-    "hiring_manager": "Amy Yuan",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7337308002",
-    "job_title": "Senior Engineering Manager- Billing \u0026 Payments",
-    "hiring_manager": "Zheng Mi",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6757370002",
-    "job_title": "Senior Software Engineer, Snowpark Python",
-    "hiring_manager": "Srinath Shankar",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "6888978002",
-    "job_title": "Senior Distributed Systems Engineer - Service Infrastructure",
-    "hiring_manager": "Anoop Gupta",
+    "job_id": "7280273002",
+    "job_title": "Senior Software Engineer - Query Lifecycle Platform",
+    "hiring_manager": "Eddie Hao",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
@@ -1127,6 +756,90 @@
     "location": "Bellevue, Washington, USA"
   },
   {
+    "job_id": "6875673002",
+    "job_title": "Senior Software Engineer - Data Platform",
+    "hiring_manager": "Phil Pruett",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7534997002",
+    "job_title": "Principal Software Engineer- Apps Foundation",
+    "hiring_manager": "OJ Rajpal",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "5494102002",
+    "job_title": "Principal Frontend Engineer",
+    "hiring_manager": "Kevin Liu",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "5766254002",
+    "job_title": "Principal Engineer - Database Internals",
+    "hiring_manager": "Entong Shen",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7636560002",
+    "job_title": "Senior Technical Program Manager - Product Experience",
+    "hiring_manager": "Martin Koppel",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7615915002",
+    "job_title": "Senior Data Scientist",
+    "hiring_manager": "Sandeep Chandana",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "7529339002",
+    "job_title": "Senior Security Engineer",
+    "hiring_manager": "Anand Sridharan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7535034002",
+    "job_title": "Principal Software Engineer - Observability",
+    "hiring_manager": "Jiuling Wang",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7219433002",
+    "job_title": "Senior Technical Program Manager",
+    "hiring_manager": "Galed Friedmann",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7594728002",
+    "job_title": "Senior Security Engineer",
+    "hiring_manager": "Anand Sridharan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "McLean, Virginia, USA"
+  },
+  {
+    "job_id": "7473936002",
+    "job_title": "Senior Software Engineer Cloud Services",
+    "hiring_manager": "Vinay Marpina",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7657480002",
+    "job_title": "Engineering Manager – Developer Experience",
+    "hiring_manager": "Amy Yuan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
     "job_id": "7615304002",
     "job_title": "Principal ML Scientist",
     "hiring_manager": "Ameya Sanzgiri",
@@ -1134,51 +847,191 @@
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6917516002",
-    "job_title": "Principal Software Engineer- Clean Room",
-    "hiring_manager": "Chandrasekharan Iyer",
+    "job_id": "7263662002",
+    "job_title": "Senior Software Engineer, Query Execution",
+    "hiring_manager": "Sandeep Seethaapathy",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7615918002",
+    "job_title": "Senior ML Scientist",
+    "hiring_manager": "Sandeep Chandana",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "5767922002",
+    "job_title": "Principal Engineer - Database Internals",
+    "hiring_manager": "Entong Shen",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7085545002",
+    "job_title": "Senior Technical Program Manager - Data Platform",
+    "hiring_manager": "Rajesh Padmanabhan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6967923002",
+    "job_title": "Senior Software Engineer, Query Optimizer",
+    "hiring_manager": "Di Wu (SQL)",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6757370002",
+    "job_title": "Senior Software Engineer, Snowpark Python",
+    "hiring_manager": "Srinath Shankar",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7294679002",
+    "job_title": "Senior Software Engineer - FoundationDB Security",
+    "hiring_manager": "Ata Husain",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6945484002",
-    "job_title": "Senior Software Engineer - Analytical Products",
-    "hiring_manager": "Shrikant Shanbhag",
+    "job_id": "7615322002",
+    "job_title": "Principal Data Scientist",
+    "hiring_manager": "Ameya Sanzgiri",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Dublin, California, USA"
+  },
+  {
+    "job_id": "7284047002",
+    "job_title": "Senior Technical Program Manager - Database Engineering",
+    "hiring_manager": "Galed Friedmann",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "5843680002",
+    "job_title": "Principal Software Engineer - Billing \u0026 Payment Platform",
+    "hiring_manager": "Kelvin Chan",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "4833969002",
-    "job_title": "Software Engineer - Database Engineering",
-    "hiring_manager": "Osama Khan",
+    "job_id": "7598914002",
+    "job_title": "Senior Software Engineer - Polaris \u0026 Data Lake Catalog",
+    "hiring_manager": "Gjorgji Georgievski",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7538902002",
-    "job_title": "Senior Software Engineer - Release Engineering",
-    "hiring_manager": "Thothadri Rajesh Vidyasankar",
+    "job_id": "6888978002",
+    "job_title": "Senior Distributed Systems Engineer - Service Infrastructure",
+    "hiring_manager": "Anoop Gupta",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6731191002",
+    "job_title": "Senior Software Engineer - FoundationDB",
+    "hiring_manager": "Bogdan Munteanu",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6051356002",
+    "job_title": "Senior Software Engineer - Observability",
+    "hiring_manager": "Jiuling Wang",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7647137002",
+    "job_title": "Principal Software Engineer, Product Security",
+    "hiring_manager": "Hany Farag",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7050903002",
+    "job_title": "Senior Software Engineer- Cloud Engineering",
+    "hiring_manager": "Srikanth Viswanathan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7487465002",
+    "job_title": "Senior Software Engineer - Control Plane",
+    "hiring_manager": "Marcus Martins",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6836902002",
+    "job_title": "Principal Software Engineer- Global Platform",
+    "hiring_manager": "Zheng Mi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6856026002",
+    "job_title": "Senior Software Engineer -Snowpark Container Service",
+    "hiring_manager": "Vineet Pruthi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7586438002",
+    "job_title": "Senior Software Engineer - Global Services Platform",
+    "hiring_manager": "Anoop Gupta",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "4900265002",
+    "job_title": "Senior Software Engineer - App Foundation",
+    "hiring_manager": "OJ Rajpal",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7292904002",
+    "job_title": "Senior Software Engineer- Developer Productivity",
+    "hiring_manager": "Jeff Wagner",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "5741865002",
+    "job_title": "Senior Frontend Software Engineer",
+    "hiring_manager": "Beau Bender",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7494696002",
+    "job_title": "Senior Software Engineer, Regulated \u0026 Sovereign Cloud",
+    "hiring_manager": "Kaustubh Patil",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7613452002",
+    "job_title": "Senior Software Engineer - Cloud Provisioning Service",
+    "hiring_manager": "Anoop Gupta",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "5459298002",
+    "job_title": "Senior Software Engineer - Data Platform",
+    "hiring_manager": "Phil Pruett",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
   },
   {
     "job_id": "6231111002",
     "job_title": "Principal Software Engineer - Sharing and Marketplace Foundation",
     "hiring_manager": "Durga Arikatla",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6956654002",
-    "job_title": "Senior Software Engineer - Snowpark",
-    "hiring_manager": "Pankaj Lakhina",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "6918466002",
-    "job_title": "Senior Software Engineer- Data Privacy",
-    "hiring_manager": "Ian Connolly",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
@@ -1197,51 +1050,233 @@
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7609804002",
-    "job_title": "Senior Product Manager - Developer Experience",
-    "hiring_manager": "Carl Perry",
+    "job_id": "7336782002",
+    "job_title": "Senior Design Manager",
+    "hiring_manager": "Zack Gottlieb",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7263662002",
-    "job_title": "Senior Software Engineer, Query Execution",
-    "hiring_manager": "Sandeep Seethaapathy",
+    "job_id": "6751125002",
+    "job_title": "Senior Software Engineer, Query Optimizer",
+    "hiring_manager": "Di Wu (SQL)",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7606902002",
-    "job_title": "Senior Technical Writer",
-    "hiring_manager": "Mohan Vanmane",
+    "job_id": "7479904002",
+    "job_title": "Senior Software Engineering Manager - Snowpark",
+    "hiring_manager": "Parin Shah",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7622302002",
-    "job_title": "Senior Software Engineer, Aplication Security",
+    "job_id": "7598349002",
+    "job_title": "Senior Technical Program Manager - Engineering Systems",
+    "hiring_manager": "Galed Friedmann",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7481695002",
+    "job_title": "Principal Software Engineer - Data Ingestion Systems",
+    "hiring_manager": "Phil Pruett",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7023325002",
+    "job_title": "Senior Software Engineer - FDB Performance",
+    "hiring_manager": "Ramkumar Vadivelu",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7087183002",
+    "job_title": "Senior Software Engineer - Identity \u0026 Access Management",
+    "hiring_manager": "OJ Rajpal",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7424255002",
+    "job_title": "Engineering Manager, Unistore",
+    "hiring_manager": "Entong Shen",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7615324002",
+    "job_title": "Principal Data Scientist",
+    "hiring_manager": "Ameya Sanzgiri",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7472852002",
+    "job_title": "Senior/Principal Software Engineer - Traffic",
+    "hiring_manager": "Srikanth Viswanathan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7302150002",
+    "job_title": "Senior Software Engineer - Database Security",
+    "hiring_manager": "Sal Martinez",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7284024002",
+    "job_title": "Senior Technical Program Manager - Database Engineering",
+    "hiring_manager": "Galed Friedmann",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7598884002",
+    "job_title": "Senior Software Engineer - Polaris \u0026 Data Lake Catalog",
+    "hiring_manager": "Gjorgji Georgievski",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7584683002",
+    "job_title": "Senior Product Manager - Streamlit Open Source",
+    "hiring_manager": "Thiago Teixeira",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7093836002",
+    "job_title": "Senior Software Engineer - Query Compiler",
+    "hiring_manager": "Osama Khan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6999666002",
+    "job_title": "Senior Software Engineer - LLM",
+    "hiring_manager": "Vivek Raghunathan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "5741866002",
+    "job_title": "Principal Frontend Engineer",
+    "hiring_manager": "Kevin Liu",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7594726002",
+    "job_title": "Senior Security Engineer",
+    "hiring_manager": "Anand Sridharan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7595362002",
+    "job_title": "Senior Software Engineer, Application Security",
     "hiring_manager": "Hany Farag",
     "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "4907500002",
+    "job_title": "Senior Software Engineer - Database Security",
+    "hiring_manager": "Andy Siow",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7487471002",
-    "job_title": "Senior Software Engineer - Control Plane",
-    "hiring_manager": "Marcus Martins",
+    "job_id": "7538902002",
+    "job_title": "Senior Software Engineer - Release Engineering",
+    "hiring_manager": "Thothadri Rajesh Vidyasankar",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6815735002",
+    "job_title": "Senior Software Engineer - Clean Room",
+    "hiring_manager": "Chandrasekharan Iyer",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7026598002",
+    "job_title": "Senior Software Engineer - FDB Performance",
+    "hiring_manager": "Ramkumar Vadivelu",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7292904002",
-    "job_title": "Senior Software Engineer- Developer Productivity",
-    "hiring_manager": "Jeff Wagner",
+    "job_id": "7423983002",
+    "job_title": "Software Engineer",
+    "hiring_manager": "Dhiraj Gupta",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "7588041002",
+    "job_title": "Software Engineer - Snowpark",
+    "hiring_manager": "Zihao Ye",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "Bellevue, Washington, USA"
   },
   {
-    "job_id": "7294679002",
-    "job_title": "Senior Software Engineer - FoundationDB Security",
-    "hiring_manager": "Ata Husain",
+    "job_id": "7494435002",
+    "job_title": "Senior Software Engineer – Engineering Systems – Bazel",
+    "hiring_manager": "Jason Swartz",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7549982002",
+    "job_title": "Principal Software Engineer- Growth",
+    "hiring_manager": "Zheng Mi",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "5530917002",
+    "job_title": "Senior Software Engineer- Database Internals",
+    "hiring_manager": "Entong Shen",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "6674199002",
+    "job_title": "Principal Software Engineer - Sharing and Marketplace Foundation",
+    "hiring_manager": "Durga Arikatla",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7478149002",
+    "job_title": "Senior Software Engineer - Billing \u0026 Payment Platform (Evergreen)",
+    "hiring_manager": "Claire Li",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "6966927002",
+    "job_title": "Senior Software Engineer - Database Platform",
+    "hiring_manager": "Stanley Feng",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "San Mateo, California, USA"
+  },
+  {
+    "job_id": "4833995002",
+    "job_title": "Software Engineer - Database Engineering",
+    "hiring_manager": "Osama Khan",
+    "posting_date": "2024-10-01T23:06:13.000+0000",
+    "location": "Bellevue, Washington, USA"
+  },
+  {
+    "job_id": "7302194002",
+    "job_title": "Senior Software Engineer  - Database Security",
+    "hiring_manager": "Sal Martinez",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
@@ -1253,58 +1288,23 @@
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7593425002",
-    "job_title": "Senior Frontend Engineer - Marketplace",
-    "hiring_manager": "Neeraj Khanna",
+    "job_id": "7307616002",
+    "job_title": "Principal Engineer, Regulated \u0026 Sovereign Cloud",
+    "hiring_manager": "Artin Avanes",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "7086777002",
-    "job_title": "Senior Technical Program Manager - Data Platform",
-    "hiring_manager": "Rajesh Padmanabhan",
+    "job_id": "7325744002",
+    "job_title": "Senior Software Engineer- Data Infrastructure",
+    "hiring_manager": "Jessie Heng",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   },
   {
-    "job_id": "6731191002",
-    "job_title": "Senior Software Engineer - FoundationDB",
-    "hiring_manager": "Bogdan Munteanu",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7494435002",
-    "job_title": "Senior Software Engineer – Engineering Systems – Bazel",
-    "hiring_manager": "Jason Swartz",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "Bellevue, Washington, USA"
-  },
-  {
-    "job_id": "7498516002",
-    "job_title": "Principal Software Engineer - Platform Security",
-    "hiring_manager": "Andy Siow",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7647156002",
-    "job_title": "Principal Software Engineer, Product Security",
-    "hiring_manager": "Hany Farag",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "7629212002",
-    "job_title": "Principal Product Manager - Head of Accessibility",
-    "hiring_manager": "Amanda Kelly",
-    "posting_date": "2024-10-01T23:06:13.000+0000",
-    "location": "San Mateo, California, USA"
-  },
-  {
-    "job_id": "5720682002",
-    "job_title": "Senior Software Engineer - Billing \u0026 Payment Platform",
-    "hiring_manager": "Claire Li",
+    "job_id": "7599065002",
+    "job_title": "Senior Software Engineer - App Foundation (Infra)",
+    "hiring_manager": "Puneet Shenoy",
     "posting_date": "2024-10-01T23:06:13.000+0000",
     "location": "San Mateo, California, USA"
   }
